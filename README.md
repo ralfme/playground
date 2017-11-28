@@ -1,2 +1,2 @@
 # playground
-just for testing around
+This one is just for playing around.
